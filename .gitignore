@@ -39,3 +39,9 @@
 
 # debug information files
 *.dwo
+
+
+
+
+# temporarily add the led-pcb folder, because it is not ready to be made public yet
+Hardware/led-pcb/
